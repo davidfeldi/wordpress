@@ -1,6 +1,6 @@
 ---
 applications: 
-- name: PHPWordPress 
+- name: PHPWordPress-david1 
   memory: 512M 
   instances: 1 
   host: PHPWordPress-${random-word} 
